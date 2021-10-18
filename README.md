@@ -20,6 +20,8 @@
 
 ![Image of дуст](https://github.com/roman-bg/dust/blob/main/img/case.png)
 
+![Image of дуст](https://github.com/roman-bg/dust/blob/main/img/case-1.png)
+
 Време е да регистрирате вашата станция в мрежата на sensor.community! Това можете да направите директно на следния адрес – https://devices.sensor.community/?lang=bg следвайки указанията там. Необходимото при регистрацията ID можете да откриете в нет интерфейса на вашата станция, както е посочено в картинката.
 
 ![Image of дуст](https://github.com/roman-bg/dust/blob/main/img/id.png)
